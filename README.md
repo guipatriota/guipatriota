@@ -9,7 +9,7 @@ Hi there
 ### TL;DR
 - Data scientist, AI software developer, and tech enthusiast with a strong background in electronics.
 - Software engineering and data science professor.
-- Works and teaches Big Data, SQL, NoSQL, NLP, and Machine Learning.
+- Works and teaches Big Data, SQL, NoSQL, NLP, Machine Learning, Embedded Systems and 3D Printing.
 
 <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a>
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" title="C"><img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="21px" height="21px"></a>
